@@ -1,0 +1,48 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+.navbar{
+    background: #AFD275;
+    height: 70px;
+
+}
+.navbar-brand nav-link{
+    color: #C2CAD0;
+}
+
+
+section {
+    padding: 60px 0;
+}
+#footer {
+    background: #AFD275;
+}
+#footer h5{
+    padding-left: 10px;
+    border-left: 3px solid #eeeeee;
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+    color:#8076a3
+}
+#footer a {
+    color: #8076a3;
+}
+#footer ul.social li{
+    padding: 3px 0;
+}
+#footer ul.social li a i {
+    margin-right: 5px;
+    font-size:25px;
+}
+#footer ul.social li:hover a i {
+    font-size:30px;
+    margin-top:-10px;
+}
+#footer ul.social li a,
+#footer ul.quick-links li a{
+    color:#ffffff;
+}
+#footer ul.social li a:hover{
+    color:#eeeeee;
+}
+.fa {color:#8076a3}
+.meni{color: #7c677f}
+.logo {width:100px; height: 100px;}
